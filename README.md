@@ -1,0 +1,1 @@
+In this task we have to predict the percentage score of a student based on the number of hours studied. The task has 2 variables where the feature is number of hours studied and target value is the percentage score. This can be solved using Simple Linear Regression.
